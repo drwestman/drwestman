@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David Westman
-- 👀 I’m interested in Finance, Machine Learning, and Video Games
+- 👀 I’m interested in Machine Learning and Video Games
 - 🌱 I’m currently learning Reinforcement Learning
 - 📫 How to reach me davidwestman@icloud.com
 
